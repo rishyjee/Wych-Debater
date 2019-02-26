@@ -1,4 +1,18 @@
 # Wych-Debater
+AI Debater is aimed to be first AI system that can debate humans on complex topics.
+It’s able to debate topics it never trained on.
+With just a few minutes of prep, AI Debater is ready to deliver an opening speech.
+First, it searches for short pieces of text, drawing from around billions of sentences taken from newspapers and journals.
+This process can result in a few hundred relevant text segments.
+The AI system removes redundant text,
+Selects the strongest remaining claims and evidence, and arranges these by themes to create a narrative.
+AI debater pieces all the selected arguments together to create and deliver a persuasive speech.
+The next step is to listen to the opponent’s response, digest it and build a rebuttal.
+The core technology breaks new ground in AI including
+Data-driven speech writing and delivery
+Listening comprehension
+Modelling human dilemmas.
+
 Building an AI system which can debate humans on complex topics. AI learns the art of debate.
 The goal is to help people build persuasive arguments and make well-informed decisions.
 The rise of one-sided and doctored narratives is challenging society, Too often, we talk past one 
@@ -40,6 +54,15 @@ Technology
 How does AI Debater learn a topic?
 How does AI Debater form an argument?
 How does the Debater system know if a claim is for or against the topic it's given?
+
+★★★★★ Future Scope
+
+The interaction of man and machine could be enriching for both. It’s not a question of one being better than the other, but about AI and humans working together.
+Master the complex and rich world of human language.
+Fake news detection
+In Judiciary it can be used to fasten the case hearing process.
+Academics for learning purpose with knowing both pro and cons
+Policy making, AI debater will enrich the end user with facts and narratives.
 
 
 ★★★★★
@@ -122,4 +145,18 @@ persuasive voice.
 
 
 Reference:-
-https://idebate.org/debatable
+
+https://www.research.ibm.com/artificial-intelligence/project-debater/  (IBM Research)
+https://www.research.ibm.com/artificial-intelligence/project-debater/about/
+https://www.research.ibm.com/artificial-intelligence/project-debater/about/
+https://www.research.ibm.com/artificial-intelligence/project-debater/importance/
+https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml (AI Debater Dataset)
+https://www.youtube.com/watch?v=NSB06STBkdA
+https://www.youtube.com/watch?v=FmGNwMyFCqo
+https://www.youtube.com/watch?v=waXHrc2m9K8 (The School of AI)
+https://www.youtube.com/watch?v=PYKfXkd3t7c&t=5s (Applied AI Courses)
+http://lumiverse.io/series/neural-networks-demystified (Lumiverse Beta)
+https://ai.google/education/social-good-guide/?category=examples (Google AI)
+https://en.wikipedia.org/wiki/Project_Debater (Wikipedia)
+https://idebate.org/debatabase 
+
